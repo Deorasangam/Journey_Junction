@@ -43,10 +43,10 @@ div
     background-color: black;
     float: left;
     box-sizing: border-box;
-    transition:1s;
+    transition:.5s;
 }
 .place:hover
 {
     border-radius:50%;
-    transition:1s;
+    transition:.5s;
 }
